@@ -1,5 +1,5 @@
 # Recsys2019
-Mike O'Malley's and my joint entry to the 2019 recommender systems challenge
+Mike O'Malley's and my joint entry to the 2019 recommender systems challenge. For leaderboard see https://recsys.trivago.cloud/leaderboard/
 
 # Summary 
 
